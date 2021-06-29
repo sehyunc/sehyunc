@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Sehyun. I'm a Web Developer currently attending UC Berkeley!
+### Hi there 👋, I'm Sehyun. I'm a Frontend Engineer currently attending UC Berkeley!
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=sehyunc&theme=dracula" />
 
